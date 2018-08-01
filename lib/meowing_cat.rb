@@ -1,6 +1,6 @@
-## code your solution here. 
+## code your solution here.
 class cat
-  def name=(new_name)
+  def name = (new_name)
     @name = new_name
   end
 
