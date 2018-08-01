@@ -1,5 +1,8 @@
 ## code your solution here.
 class cat
+
+  attr_accessor :name
+
   def name=(new_name)
     @name = new_name
   end
